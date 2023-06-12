@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 db.json | head -3
+tail -1 iacta | head -3
